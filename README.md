@@ -3,7 +3,7 @@
 An interactive Tableau dashboard created by Matthew Cutshall to analyze national COVID-19 testing metrics, outcomes, hospitalizations, and deaths over time across various geographic locations[cite: 2].
 
 ## Dashboard Preview
-![Dashboard Preview](./images/Covid%20Dashboard.png)
+![Dashboard Preview](Covid Dashboard.png)
 
 ## Interactive Version
 You can view and interact with the live **dashboard** on Tableau Public:
