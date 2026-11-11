@@ -2,12 +2,12 @@
 
 An interactive Tableau dashboard created by Matthew Cutshall to analyze national COVID-19 testing metrics, outcomes, hospitalizations, and deaths over time across various geographic locations[cite: 2].
 
-## Dashboard Preview
-![Covid Trend Analysis Dashboard Preview](./images/covid_dashboard_preview.png)
 
 ## Interactive Version
-You can view and interact with the live dashboard on Tableau Public:
-👉 [View Live on Tableau Public](https://public.tableau.com/app/profile/matthew.cutshall/viz/CovidTrendAnalysis_17944018999450/CovidDashboard?publish=yes)[cite: 2]
+You can view and interact with the live **dashboard** on Tableau Public:
+👉 [[View Dashboard Live on Tableau Public](https://public.tableau.com/app/profile/matthew.cutshall/viz/CovidTrendAnalysis_17944018999450/CovidDashboard?publish=yes)[cite: 2]]
+You can view the live **Story** here on Tableau Public:
+👉 [[View Story Live on Tableau Public](https://public.tableau.com/app/profile/matthew.cutshall/viz/CovidTrendAnalysis_17944018999450/Story-TrendsandAnalysis?publish=yes)[cite: 2]]
 
 ## Key Features & Visualizations
 * **Geographic Map (Covid Testing and Outcomes):** State-level breakdown tracking regional hospitalization and death percentages across the United States.
